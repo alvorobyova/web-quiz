@@ -2,6 +2,11 @@ body {
   margin: 0;
   background-color: #254dbe;
   font-family: sans-serif;
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
 }
 
 * {
